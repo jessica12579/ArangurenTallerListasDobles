@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Usuario/CLionProjects/ArangurenTallerListasDobles/Calculadora.h
+string
+-
+ostream
+-
+
+C:/Users/Usuario/CLionProjects/ArangurenTallerListasDobles/Gestion.h
+Node.h
+C:/Users/Usuario/CLionProjects/ArangurenTallerListasDobles/Node.h
+LinkedList.cpp
+C:/Users/Usuario/CLionProjects/ArangurenTallerListasDobles/LinkedList.cpp
+Calculadora.h
+C:/Users/Usuario/CLionProjects/ArangurenTallerListasDobles/Calculadora.h
+
+C:/Users/Usuario/CLionProjects/ArangurenTallerListasDobles/LinkedList.cpp
+LinkedList.h
+C:/Users/Usuario/CLionProjects/ArangurenTallerListasDobles/LinkedList.h
+
+C:/Users/Usuario/CLionProjects/ArangurenTallerListasDobles/LinkedList.h
+Node.h
+C:/Users/Usuario/CLionProjects/ArangurenTallerListasDobles/Node.h
+string
+-
+vector
+-
+
+C:/Users/Usuario/CLionProjects/ArangurenTallerListasDobles/Node.h
+cstdlib
+-
+
+C:/Users/Usuario/CLionProjects/ArangurenTallerListasDobles/main.cpp
+iostream
+-
+Calculadora.h
+C:/Users/Usuario/CLionProjects/ArangurenTallerListasDobles/Calculadora.h
+Gestion.h
+C:/Users/Usuario/CLionProjects/ArangurenTallerListasDobles/Gestion.h
+
